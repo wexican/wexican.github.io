@@ -203,7 +203,7 @@
 
 				window.setTimeout(function() {
 					$window.triggerHandler('scroll');
-				}, 100);
+				}, 0);
 
 			});
 
